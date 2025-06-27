@@ -1,6 +1,6 @@
 #### Hi there 👋 I'm [Nina](https://ninalui.github.io/)
 
-I'm a recent Master of Computer Science graduate with a background in Biology and a strong passion for building intuitive, user-focused software.  
+I'm a recent Master of Computer Science graduate with a background in Biology and a strong passion for building intuitive, user-focused software. 
 I love building cool things that solve real world problems, and have a particular interest in data-driven applications and AI.
 
 Currently into: full-stack dev, web + mobile apps, and anything AI-related.  
